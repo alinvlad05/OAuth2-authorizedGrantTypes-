@@ -17,7 +17,7 @@ Custom grant types: You can define custom grant types if needed for specific aut
 
 The choice of grant type depends on the specific requirements and security considerations of your application. Each grant type has its own use cases and security implications, so it's important to choose the one that best fits your application's needs.
 
-
+ 
 The #ClientBuilder class appears to be a builder pattern implementation for constructing instances of ClientDetails used in OAuth 2.0 client configurations. It provides a fluent interface to set various properties and attributes of an OAuth 2.0 client. Below is a list of fields and methods in the ClientBuilder class, along with explanations:
 
 Fields:
